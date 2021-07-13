@@ -9,3 +9,4 @@ resource "google_storage_bucket" "worldcup_bucket" {
     env = var.env
   }
 }
+
