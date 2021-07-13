@@ -1,0 +1,8 @@
+.terragrunt-cache
+.terraform
+*.tfplan
+.env
+.envrc
+backend.tf
+./idea
+.idea
